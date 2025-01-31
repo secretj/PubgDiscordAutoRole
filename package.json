@@ -1,0 +1,15 @@
+{
+  "name": "pubg-rank",
+  "version": "1.0.0",
+  "description": "pubg-rank-discord-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
