@@ -12,7 +12,7 @@ export class UserService {
      * 디스코드 커맨드를 통해 사용자를 등록
      * 
      * @param {String} discodeId : 커맨드를 입력한 디스코드 사용자의 pk여야함
-     * @param {String} pubgId 
+     * @param {String} pubgId
      */
     async saveUser (discodeId, pubgId) {
         try {
