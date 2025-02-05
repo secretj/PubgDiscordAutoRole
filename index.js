@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+
+dotenv.config();
 // 1. 주요 클래스 가져오기
 const { Client, Events, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');

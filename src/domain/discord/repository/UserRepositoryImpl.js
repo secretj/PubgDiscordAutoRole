@@ -10,7 +10,7 @@ export class UserRepositoryImpl extends UserRepository {
      * 등록된 사용자 목록 조회
      * @param {number} limit 
      */
-    async getSavedUsers(limit = 10) {
+    async getUsers(limit = 10) {
         
     }
     

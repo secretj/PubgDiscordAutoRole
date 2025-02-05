@@ -1,6 +1,6 @@
 export class UserRepository {
 
-    async getSavedUsers() {
+    async getUsers() {
         throw new Error("getSavedUsers must be implemented");
     }
     
